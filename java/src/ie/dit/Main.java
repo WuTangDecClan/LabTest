@@ -77,7 +77,7 @@ public class Main
 	{
 	
 		Main main = new Main();
-		main.audio2();		
+		main.cafeRubis();		
 			
 	}
 }
